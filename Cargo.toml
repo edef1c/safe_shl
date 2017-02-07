@@ -1,0 +1,7 @@
+[package]
+name = "safe_shl"
+version = "1.0.0"
+authors = ["edef <edef@edef.eu>"]
+
+[lib]
+path = "lib.rs"
