@@ -2,6 +2,7 @@
 name = "safe_shl"
 version = "1.0.0"
 authors = ["edef <edef@edef.eu>"]
+repository = "https://github.com/edef1c/safe_shl"
 
 [lib]
 path = "lib.rs"
