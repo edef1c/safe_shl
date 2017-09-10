@@ -2,7 +2,7 @@
 name = "safe_shl"
 description = "left bit shifts without dropping bits"
 license = "0BSD"
-version = "1.0.0"
+version = "1.1.0"
 authors = ["edef <edef@edef.eu>"]
 repository = "https://github.com/edef1c/safe_shl"
 
